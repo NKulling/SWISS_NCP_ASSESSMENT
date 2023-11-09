@@ -1,6 +1,6 @@
 ## ID - emblematic species
 
-This ES indicator is based on the abilities of emblematic wild species to support the identity and traditions present in Switzerland. The [list of species](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/HAB/list_sp.csv) is generated based on the study from Schirpke et al. (2018) conducted in the Alpine region and is available in this repository. We modelled the probability of distribution of each of these species and aggregated the prediction maps to get the mean suitability value for presence of emblematic species.
+This ES indicator is based on the abilities of emblematic wild species to support the identity and traditions present in Switzerland. The [list of species](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/ID/list_sp.csv) is generated based on the study from Schirpke et al. (2018) conducted in the Alpine region and is available in this repository. We modelled the probability of distribution of each of these species and aggregated the prediction maps to get the mean suitability value for presence of emblematic species.
 
 ----
 
