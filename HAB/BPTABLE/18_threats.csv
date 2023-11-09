@@ -1,0 +1,6 @@
+﻿THREAT;MAX_DIST;WEIGHT;DECAY;CUR_PATH
+crop_c;1;0.68;linear;layer_build/LAYERPROD/18_crop_c.tif
+rures_c;0.6;0.5;exponential;layer_build/LAYERPROD/18_rures_c.tif
+urban_c;0.6;1;exponential;layer_build/LAYERPROD/18_urban_c.tif
+pr_rd_c;1.2;0.71;linear;layer_build/LAYERPROD/pr_rd_c.tif
+sc_rd_c;0.365;0.71;linear;layer_build/LAYERPROD/sc_rd_c.tif
