@@ -1,0 +1,26 @@
+DataPaths
+/bioclim_chclim25_present_1981_2010_bio12.tif
+/topo_alti3d_slope_max.tif
+/topo_alti3d_dem_max.tif
+/pop_statpop_2015_populationdensity_mean_25.tif
+/TerrainRuggednessIndex/TRI_25m_CH.tif
+/Landscape heterogeneity/ls_hetereogeneity_CH_25m.tif
+/accessibility_crs.tif
+/trans_tlm3d_dist2road_cl4.tif
+/alpine_meadow_and_pastures.tif
+/arable_land.tif
+/bare_land.tif
+/brush_forest.tif
+/buildings.tif
+/forest.tif
+/glaciers_perpetual_snow.tif
+/industrial_and_commecial_areas.tif
+/lakes.tif
+/meadows_and_pastures.tif
+/orchards_vineyards_and_horticulture.tif
+/other_woods.tif
+/recreational_green_and_leisure_spaces.tif
+/rivers.tif
+/special_urban_areas.tif
+/transport_areas.tif
+/unproductive_vegetation.tif

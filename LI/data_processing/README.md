@@ -1,0 +1,3 @@
+Here is the code used to process the Inaturalist and Flickr Raw data, as  well as the code used to check the images using Google Vision API. This process was highly inspired by Fox et al. (2021). The keywords  (nature_keywords.txt; non_nature_keywords.txt) for data classification  were directly taken from Fox et al. (2021). 
+
+Fox, N., Graham, L. J., Eigenbrod, F., Bullock, J. M.,  & Parks, K. E. (2021). Enriching social media data allows a more  robust representation of cultural ecosystem services. Ecosystem  Services, 50, 101328. https://doi.org/10.1016/j.ecoser.2021.101328
