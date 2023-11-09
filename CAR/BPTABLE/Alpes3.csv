@@ -1,0 +1,19 @@
+lucode;LULC_name;C_above;C_dead;C_below;C_soil
+1;Productive forest;94.98;5.14;14.75;69.48
+2;Unproductive forest;29.88;0;15.64;69.48
+3;Cropland;6.07;0;0;42.35
+4;Shrub Vegetation;20.45;0;0;63.91
+5;Vineyards;5.57;0;0;50.58
+6;Copse;20.45;0;0;63.91
+7;Orchards;23.34;0;0;59.79
+8;Stony grassland;7.16;0;0;22.36
+9;Unproductive grassland;3.45;0;0;63.69
+10;Surface waters;0;0;0;0
+11;Unproductive wetland;6.5;0;0;62.86
+12;Buildings and constructions;0;0;0;0
+13;Herbaceaous biomass in settlements;9.54;0;0;50.58
+14;Shrubs in settlements;15.43;0;0;50.58
+15;Trees in settlements;20.72;0;0;50.58
+16;Other land;0;0;0;0
+18;Permanent Grassland;3.31;0;0;62.60
+0;Nodata;0;0;0;0
