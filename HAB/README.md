@@ -6,7 +6,7 @@ The habitat quality index is based on a land-use land-cover map of Switzerland a
 
 The maximal degradation of habitat coefficient was 0.15 doing a first run with default half saturation constant. As suggested by Sharp et al. (2020), the final model was done based on half this coefficient (0.075).  
 
-The script used to generate threat layers based on land-use is available in this repository. 
+The [script](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/HAB/threat_layers_generation.R) used to generate threat layers based on land-use is available in this repository. 
 
 ----
 
