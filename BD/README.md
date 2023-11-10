@@ -10,7 +10,7 @@ We constructed species distribution models (SDMs) for 1482 terrestrial species t
 
 Model accuracy was assessed through a split-sample approach repeated 100 times, with 30% of the data reserved for validation. The best combination of hyperparameters for each model was determined based on the average score derived from three evaluation metrics: the Area Under the Curve (AUC') or Somers' D, the maximized True Skill Statistic (maxTSS) , and the Continuous Boyce Index (CBI) . The results obtained from the five modelling algorithms were mapped onto a 25-meter resolution grid covering Switzerland. These maps were then ensembled by averaging the predictions from the five models. Detailed results from the evaluation are displayed in figure 2. 
 
-x ![alt text](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/BD/fig/metrics_per_ncp.png)
+<img src="https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/BD/fig/metrics_per_ncp.png" width="600">
 
 **Figure 2** Boxplots and violin plots for the four groups of modelled species and the three evaluation metrics, along with the consensus evaluation score. **PC:** Pest control species; **ID:** Emblematic species; **MED:** Medicinal plants; **BD:** Red list species prioritization. 
 
