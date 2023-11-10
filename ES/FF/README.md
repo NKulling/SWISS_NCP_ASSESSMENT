@@ -2,7 +2,7 @@
 
 Mapping of food and feed supply was done using a method similar than that of Briner et al., (2012). We selected a list of the most cultivated crops in Switzerland (table 1)  based on data from Agristat, by the Swiss Farmers Union (USP, 2021). We used the ECOCROP database (FAO, 2007) to extract species-specific optimal growing conditions (monthly precipitations and temperature, soil pH), and we fit a crop yield curve for each selected species. We modeled optimal growing conditions maps for each species using the “Recocrop” package on R (Hijmans, 2021). The obtained maps represent climatic and edaphic suitability for the selected crops, and are aggregated by averaging the value of all maps. They are then masked to be applied only to food and feed production land-use classes (table 2). 
 
-R script used to generate the ES map is available in this repository. It required heavy computing capacities and was ran in HPC environment using provided shell script. 
+R script used to generate the ES map is available in this repository. It required heavy computing capacities and was run in HPC environment using provided shell script. 
 
  
 
