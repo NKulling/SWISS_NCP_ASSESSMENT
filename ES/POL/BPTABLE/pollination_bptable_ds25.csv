@@ -1,0 +1,75 @@
+lucode;LULC_name;nesting_cavity_availability_index;nesting_ground_availability_index;floral_resources_spring_index;floral_resources_summer_index;floral_resources_fall_index
+0;other;0;0;0;0;0
+1;Industrial and commercial buildings;0.1;0;0;0;0
+2;Surroundings of industrial and commercial buildings;0.1;0.2;0.1;0.2;0.1
+3;One- and two-family houses;0.1;0;0;0;0
+4;Surroundings of one- and two-family houses;0.2;0.3;0.2;0.2;0.2
+5;Terraced houses;0.1;0;0;0;0
+6;Surroundings of terraced houses;0.2;0.3;0.2;0.2;0.2
+7;Blocks of flats;0.1;0;0;0;0
+8;Surroundings of blocks of flats;0.2;0.3;0.2;0.2;0.2
+9;Public buildings;0.1;0;0;0;0
+10;Surroundings of public buildings;0.2;0.3;0.2;0.2;0.2
+11;Agricultural buildings;0.1;0;0;0;0
+12;Surroundings of agricultural buildings;0.2;0.3;0.2;0.2;0.2
+13;Unspecified buildings;0.1;0;0;0;0
+14;Surroundings of unspecified buildings;0.1;0;0;0;0
+15;Motorways;0;0;0;0;0
+16;Green motorway environs;0.2;0.6;0.4;0.6;0.2
+17;Roads and paths;0;0.2;0;0;0
+18;Green road environs;0.2;0.6;0.4;0.6;0.2
+19;Parking areas;0;0;0;0;0
+20;Sealed railway areas;0;0;0;0;0
+21;Green railway environs;0.2;0.6;0.4;0.6;0.2
+22;Airports;0;0;0;0;0
+23;Airfields, green airport environs;0;0.3;0;0;0
+24;Energy supply plants;0;0;0;0;0
+25;Waste water treatment plants;0;0;0;0;0
+26;Other supply or waste treatment plants;0;0;0;0;0
+27;Dumps;0;0;0;0;0
+28;Quarries, mines;0;0.1;0;0;0
+29;Construction sites;0;0.1;0;0;0
+30;Unexploited urban areas;0.2;1;0.4;0.6;0.2
+31;Public parks;0.2;0.6;0.1;0;0
+32;Sports facilities;0;0.3;0;0;0
+33;Golf courses;0;0.3;0;0;0
+34;Camping areas;0;0.1;0;0;0
+35;Garden allotments;0.6;0.6;0.5;0.6;0.5
+36;Cemeteries;0.1;0.2;0.1;0.2;0.1
+37;Intensive orchards;1;0.5;0.8;0.3;0.2
+38;Field fruit trees;1;0.9;0.8;0.3;0.2
+39;Vineyards;0;0.5;0.2;0.3;1
+40;Horticulture;0;0;0.9;0.9;0.9
+41;Arable land;0;0.3;0.4;0.5;0.4
+42;Meadows;0;0.3;0.4;0.5;0.4
+43;Farm pastures;0.6;1;0.4;0.6;0.2
+44;Brush meadows and farm pastures;0.9;1;0.4;0.6;0.2
+45;Alpine meadows;0.6;1;0.3;0.7;0.1
+46;Favorable alpine pastures;0.6;1;0.3;0.7;0.1
+47;Brush alpine pastures;0.9;1;0.3;0.7;0.1
+48;Rocky alpine pastures;0.6;1;0.3;0.7;0.1
+49;Sheep pastures;0.6;1;0.3;0.7;0.1
+50;Normal dense forest;0.9;0.6;0.8;0.1;0.1
+51;Forest strips;0.9;0.6;0.4;0.3;0.4
+52;Afforestations;0.6;0.9;0.5;0.2;0.1
+53;Felling areas;0.6;0.9;0.5;0.2;0.1
+54;Damaged forest areas;0.9;0.6;0.8;0.1;0.1
+55;Open forest (on agricultural areas);1;0.9;0.4;0.3;0.4
+56;Open forest (on unproductive areas);1;0.9;0.4;0.3;0.4
+57;Brush forest;0.6;0.9;0.5;0.2;0.1
+58;Groves, hedges;0.9;0.6;0.4;0.3;0.4
+59;Clusters of trees (on agricultural areas);1;0.9;0.4;0.3;0.4
+60;Clusters of trees (on unproductive areas);1;0.9;0.4;0.3;0.4
+61;Lakes;0;0;0;0;0
+62;Rivers;0;0;0;0;0
+63;Flood protection structures;0;0.1;0;0;0
+64;Scrub vegetation;0.9;0.6;0.5;0.3;0.3
+65;Unproductive grass und shrubs;0.9;0.6;0.5;0.3;0.3
+66;Avalanche and rockfall barriers;0;0.1;0;0;0
+67;Wetlands;0.2;0;1;0.5;0.2
+68;Alpine sports facilities;0.6;1;0.3;0.7;0.1
+69;Rocks;0;0.3;0;0;0
+70;Screes, sand;0;0.3;0;0;0
+71;Landscape interventions;0;0;0;0;0
+72;Glaciers, perpetual snow;0;0;0;0;0
+255;Nodata;0;0;0;0;0

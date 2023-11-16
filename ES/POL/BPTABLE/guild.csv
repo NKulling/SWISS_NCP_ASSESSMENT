@@ -1,0 +1,21 @@
+﻿species;nesting_suitability_cavity_index;nesting_suitability_ground_index;foraging_activity_spring_index;foraging_activity_summer_index;foraging_activity_fall_index;alpha;relative_abundance
+Andrena carantonica;0;1;0.9;0.1;0;512;1
+Andrena chrysosceles;0;1;0.9;0.1;0;260;1
+Andrena cineraria;0;1;0.9;0.1;0;300;1
+Andrena dorsata;0;1;0.5;0.5;0;650;1
+Andrena flavipes;0;1;0.45;0.45;0.1;300;1
+Andrena fulva;0;1;0.9;0.1;0;315;1
+Andrena haemorrhoa;0;1;0.9;0.1;0;373;1
+Andrena minutula;0;1;0.5;0.5;0;112;1
+Andrena nitida;0;1;0.9;0.1;0;288;1
+Bombus hortorum;0.2;0.8;0.4;0.5;0.1;604;1
+Bombus hypnorum;1;0;0.3;0.6;0.1;288;1
+Bombus lapidarius;0.2;0.8;0.3;0.6;0.1;1300;1
+Bombus pascuorum;0;1;0.3;0.6;0.1;1500;1
+Bombus pratorum;0.5;0.5;0.5;0.5;0;1500;1
+Bombus terrestris;0;1;0.3;0.6;0.1;1500;1
+Lasioglossum calceatum;0;1;0.4;0.4;0.2;1000;1
+Lasioglossum malachurum;0;1;0.3;0.5;0.2;500;1
+Lasioglossum morio;0;1;0.4;0.4;0.2;69;1
+Lasioglossum politum;0;1;0.4;0.4;0.2;14;1
+Osmia bicornis;1;0;0.9;0.1;0;600;1
