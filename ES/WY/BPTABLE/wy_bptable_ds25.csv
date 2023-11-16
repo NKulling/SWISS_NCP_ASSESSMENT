@@ -1,0 +1,75 @@
+lucode,LULC_name,LULC_veg,root_depth,Kc,Load_n,eff_n,crit_len_n,usle_C,usle_p
+0,other,0,0,0,0,0,0,0,0
+1,Industrial and commercial buildings,0,1,0.33276775,0,0,25,0,0.5
+2,Surroundings of industrial and commercial buildings,0,1,0.33276775,0,0,25,0,0.5
+3,One- and two-family houses,0,1,0.33276775,0,0,25,0,0.5
+4,Surroundings of one- and two-family houses,0,1,0.33276775,0,0,25,0,0.5
+5,Terraced houses,0,1,0.33276775,0,0,25,0,0.5
+6,Surroundings of terraced houses,0,1,0.33276775,0,0,25,0,0.5
+7,Blocks of flats,0,1,0.33276775,0,0,25,0,0.5
+8,Surroundings of blocks of flats,0,1,0.33276775,0,0,25,0,0.5
+9,Public buildings,0,1,0.33276775,0,0,25,0,0.5
+10,Surroundings of public buildings,0,1,0.33276775,0,0,25,0,0.5
+11,Agricultural buildings,0,1,0.33276775,0,0,25,0,0.5
+12,Surroundings of agricultural buildings,0,1,0.33276775,0,0,25,0,0.5
+13,Unspecified buildings,0,1,0.33276775,0,0,25,0,0.5
+14,Surroundings of unspecified buildings,0,1,0.33276775,0,0,25,0,0.5
+15,Motorways,0,1,0.4567675,0,0,25,0,0.5
+16,Green motorway environs,1,700,1.26,12,0.6,150,0.0903,0.9942
+17,Roads and paths,0,1,0.4567675,0,0,25,0,0.5
+18,Green road environs,1,700,1.26,12,0.6,150,0.0903,0.9942
+19,Parking areas,0,1,0.4567675,0,0,25,0,0.5
+20,Sealed railway areas,0,1,0.4567675,0,0,25,0,0.5
+21,Green railway environs,1,700,1.26,12,0.6,150,0.0903,0.9942
+22,Airports,0,1,0.33276775,0,0,25,0,0.5
+23,"Airfields, green airport environs",1,550,0.730029563,23,0.6,150,0.02652,0.5
+24,Energy supply plants,0,1,0.33276775,0,0,25,0,0.5
+25,Waste water treatment plants,0,1,0.33276775,0,0,25,0,0.5
+26,Other supply or waste treatment plants,0,1,0.33276775,0,0,25,0,0.5
+27,Dumps,0,1,0.398789417,7,0,25,0,1
+28,"Quarries, mines",0,1,0.398789417,7,0,25,0,1
+29,Construction sites,0,1,0.398789417,7,0,25,0,1
+30,Unexploited urban areas,0,1,0.398789417,7,0,25,0,1
+31,Public parks,1,550,0.730029563,23,0.6,150,0.02652,0.5
+32,Sports facilities,0,1,0.940982,13,0,25,0,0.5
+33,Golf courses,1,550,0.730029563,23,0.6,150,0.02652,0.5
+34,Camping areas,1,550,0.730029563,23,0.6,150,0.02652,0.5
+35,Garden allotments,1,550,0.730029563,23,0.6,150,0.02652,0.5
+36,Cemeteries,1,550,0.730029563,23,0.6,150,0.02652,0.5
+37,Intensive orchards,1,1200,1.3125,12,0.4,150,0.1232,0.9942
+38,Field fruit trees,1,1200,1.3125,12,0.4,150,0.1232,0.9942
+39,Vineyards,1,1500,0.7,33,0.4,150,0.3527,0.9942
+40,Horticulture,1,1500,1.225,12,0.6,150,0.1384,0.9942
+41,Arable land,1,1500,1.225,12,0.6,150,0.1384,0.9942
+42,Meadows,1,1500,1.225,12,0.6,150,0.1384,0.9942
+43,Farm pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+44,Brush meadows and farm pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+45,Alpine meadows,1,700,1.26,12,0.6,150,0.0903,0.9942
+46,Favorable alpine pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+47,Brush alpine pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+48,Rocky alpine pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+49,Sheep pastures,1,700,1.26,12,0.6,150,0.0903,0.9942
+50,Normal dense forest,1,3000,1.225,6,0.8,150,0.0012,1
+51,Forest strips,1,3000,1.225,6,0.8,150,0.0012,1
+52,Afforestations,1,700,1.26,12,0.6,150,0.0903,0.9942
+53,Felling areas,0,1,0.35,7,0.6,25,0,1
+54,Damaged forest areas,1,3000,1.225,6,0.8,150,0.0012,1
+55,Open forest (on agricultural areas),1,3000,1.225,6,0.8,150,0.0012,1
+56,Open forest (on unproductive areas),1,3000,1.225,6,0.8,150,0.0012,1
+57,Brush forest,1,3000,1.225,6,0.8,150,0.0012,1
+58,"Groves, hedges",1,3000,1.225,6,0.8,150,0.0012,1
+59,Clusters of trees (on agricultural areas),1,3000,1.225,6,0.8,150,0.0012,1
+60,Clusters of trees (on unproductive areas),1,3000,1.225,6,0.8,150,0.0012,1
+61,Lakes,0,0,1.75,15,0,25,0,1
+62,Rivers,0,0,1.75,15,0,25,0,1
+63,Flood protection structures,0,1,0.4567675,0,0,25,0,0.5
+64,Scrub vegetation,1,3000,1.225,6,0.8,150,0.0012,
+65,Unproductive grass und shrubs,1,700,1.26,12,0.6,150,0.0903,0.9942
+66,Avalanche and rockfall barriers,0,1,0.4567675,0,0,25,0,0.5
+67,Wetlands,1,2500,1.925,4,0,150,0,1
+68,Alpine sports facilities,1,550,0.730029563,23,0.6,150,0.02652,0.5
+69,Rocks,0,1,0.35,7,0.6,25,0,1
+70,"Screes, sand",0,1,0.35,7,0.6,25,0,1
+71,Landscape interventions,0,1,0.4567675,0,0,25,0,0.5
+72,"Glaciers, perpetual snow",0,0,1.75,0,0.6,25,0,1
+255,Nodata,0,0,0,0,0,0,0,0
