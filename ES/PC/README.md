@@ -1,0 +1,7 @@
+## PC - pest control species
+
+Organisms that are detrimental to humans are numerous, and their control can necessitate the use of chemical compounds (e.g., rodenticide, insecticide) and consequent human investment to minimize their effect on human activities. Here, we focus on organisms that represent a threat to agriculture and sylviculture. Those organisms are numerous and are represented in different taxa, mainly mammals and insects. To map this service, we selected a list of 50 main natural predators to main agricultural pests (list available in this repository), based on the study done by Civantos et al. (2012). We modelled the probability of distribution of each of these species and aggregated the prediction maps to get the mean suitability value for presence of predator species. The detailed species distribution modelling process as well as specific model performances are described in the BD folder of this repository.
+
+---
+
+ Civantos, E., Thuiller, W., Maiorano, L., Guisan, A., & Araújo, M. B. (2012). Potential Impacts of Climate Change on Ecosystem Services in Europe: The Case of Pest Control by Vertebrates. *BioScience*, *62*(7), 658–666. https://doi.org/10.1525/bio.2012.62.7.8
