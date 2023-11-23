@@ -47,3 +47,15 @@ Covariates used for the model were based on aggregated land use map categories (
 | Special  urban areas                   |
 | Transport  areas                       |
 | Unproductive  vegetation               |
+
+-------
+
+Fox, N., August, T., Mancini, F., Parks, K. E., Eigenbrod, F., Bullock, J. M., Sutter, L., & Graham, L. J. (2020). “photosearcher” package in R: An accessible and reproducible method for harvesting large datasets from Flickr. *SoftwareX*, *12*, 100624. https://doi.org/10.1016/j.softx.2020.100624
+
+Fox, N., Graham, L. J., Eigenbrod, F., Bullock, J. M., & Parks, K. E. (2021). Enriching social media data allows a more robust representation of cultural ecosystem services. *Ecosystem Services*, *50*, 101328. https://doi.org/10.1016/j.ecoser.2021.101328
+
+Liaw, A., & Wiener, M. (2002). *Classification and Regression by randomForest.* R News 2(3), 18--22.
+
+Schwemmer, C. (2021). *Imgrec: An Interface for Image Recognition. R  package version 0.1.2.* https://CRAN.R-project.org/package=imgrec
+
+ 
