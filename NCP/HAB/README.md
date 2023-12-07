@@ -1,12 +1,12 @@
 ## HAB- habitat quality
 
-This index was computed using InVEST Python module habitat quality (Sharp et al., 2020), which calculates an index value for each raster cell based on its relative habitat score, its [sensitivity to threats](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/ES/HAB/BPTABLE/hab_sensitivity.csv) and its proximity to threats. 
+This index was computed using InVEST Python module habitat quality (Sharp et al., 2020), which calculates an index value for each raster cell based on its relative habitat score, its [sensitivity to threats](https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/HAB/BPTABLE/hab_sensitivity.csv) and its proximity to threats. 
 
-The habitat quality index is based on a land-use land-cover map of Switzerland at 25m resolution. Each category was attributed an habitat score based on its naturality score (expert-based, ranging 0-1, adapted from naturality scores defined in the Geneva region (GE-21, 2020). [The threats](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/ES/HAB/BPTABLE/18_threats.csv) considered in the analysis  were primary and secondary roads (Berta Aneseyee et al., 2020; Forman & Deblinger, 2000), rural residential, urban, and agricultural areas (Gong et al., 2019) representing the main anthropic threats found in Switzerland. The threats effect on habitats were assigned by reviewing literature for the maximum distance of influence (Palomino & Carrascal, 2007; Shilling & Waetjen, 2012), the relative decay of the threat effect (Berta Aneseyee et al., 2020) and the weight given to threat parameters (Terrado et al., 2016). 
+The habitat quality index is based on a land-use land-cover map of Switzerland at 25m resolution. Each category was attributed an habitat score based on its naturality score (expert-based, ranging 0-1, adapted from naturality scores defined in the Geneva region (GE-21, 2020). [The threats](https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/HAB/BPTABLE/18_threats.csv) considered in the analysis  were primary and secondary roads (Berta Aneseyee et al., 2020; Forman & Deblinger, 2000), rural residential, urban, and agricultural areas (Gong et al., 2019) representing the main anthropic threats found in Switzerland. The threats effect on habitats were assigned by reviewing literature for the maximum distance of influence (Palomino & Carrascal, 2007; Shilling & Waetjen, 2012), the relative decay of the threat effect (Berta Aneseyee et al., 2020) and the weight given to threat parameters (Terrado et al., 2016). 
 
 The maximal degradation of habitat coefficient was 0.15 doing a first run with default half saturation constant. As suggested by Sharp et al. (2020), the final model was done based on half this coefficient (0.075).  
 
-The [script](https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/ES/HAB/threat_layers_generation.R) used to generate threat layers based on land-use is available in this repository. 
+The [script](https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/HAB/threat_layers_generation.R) used to generate threat layers based on land-use is available in this repository. 
 
 ----
 

@@ -2,7 +2,7 @@
 
 Water quantity regulation is fundamental for human welfare. Indeed, sufficient water is needed for household consumption, agricultural irrigation, industry, and hydropower production. Instead, excessive water flow in river networks modifies the river ecosystem and can induce floods. To model this ES, we calculated the relative contribution of each pixel to the water yield of the watershed this pixel is on. This was done using InVEST water yield Python module (Sharp et al., 2020). The model was calibrated using data at the watershed level from official hydrological surveys (Schädler & Weingartner, 2002), for the selection of 287 available watersheds (figure 1), by modifying the Kc parameter (crop coefficient) in the biophysical table (biophysical table is available in this repository). The calibration was done using land-use and climatic data from the 1992-1997 period to fit with the hydrological survey. The final model used in the analysis was done with the calibrated parameters but with current period data. The Z parameter was set at 25, computed as the mean Z-score based on MeteoSwiss climate normals of days with precipitations, for the available weather stations  (MeteoSwiss, 2020). 
 
-<img src="https://github.com/NKulling/SWISS_ES_ASSESSMENT/blob/main/ES/WY/A1_wy.png" width="600">
+<img src="https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/WY/A1_wy.png" width="600">
 
 **Figure 1** Comparison between calibrated InVEST output (water yield and precipitation output) and official hydrological survey on 287 watersheds across Switzerland. 
 
