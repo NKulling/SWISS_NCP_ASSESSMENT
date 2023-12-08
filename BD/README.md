@@ -2,7 +2,7 @@
 
  
 
-We constructed species distribution models (SDMs) for 1482 terrestrial species that have been identified as threatened and classified in the red list by the Swiss government. The complete list of selected red list species is available in this repo, and consists mainly of vascular plants, arthropods, fungi, and bird species (figure 1). SDMs were built using the N-SDM software (Adde et al., 2023).
+We constructed species distribution models (SDMs) for 1482 terrestrial species that have been identified as threatened and classified in the red list by the Swiss government. The complete list of selected red list species is available in this repo, and consists mainly of vascular plants, arthropods, fungi, and bird species (figure 1). SDMs were built using the N-SDM software (Adde et al., 2023). A complete list of all species modeled for this study is also avaialable in this repository. 
 
 <img src="https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/BD/fig/barplot_sp_redlist.jpg" width="600">
 
