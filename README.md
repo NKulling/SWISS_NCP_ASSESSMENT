@@ -1,2 +1,18 @@
 # SWISS_NCP_ASSESSMENT
-This repository hosts the scripts, tables and parameters for the generation of 15 nature's contribution to people (NCP) and 1 biodiversity indicators maps. These maps are products generated in the frame of the ValPar.CH project. 
+
+This repository contains the scripts, tables, and parameters utilized for generating 15 Nature's Contribution to People (NCP) indicators and 1 biodiversity indicator map. These maps are the outcomes of the ValPar.CH project.
+
+## Overview
+
+The repository is organized into two main folders:
+
+- **NCP Folder:** Contains detailed scripts and tables related to Nature's Contribution to People.
+- **BD Folder:** Includes scripts and parameters for the biodiversity indicator, composed of a prioritization of species distribution models (SDMs).
+
+## Map Display
+
+You can view the generated maps showcasing the supply of NCP and Biodiversity below:
+
+![NCP and Biodiversity Maps](https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/_display/maps.png)
+
+Feel free to explore the folders to access specific scripts, tables, and parameters used in the generation of these indicators. 
