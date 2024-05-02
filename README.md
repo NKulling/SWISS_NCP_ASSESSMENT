@@ -15,9 +15,6 @@ The repository is organized into two main folders:
 - **NCP Folder:** Contains detailed scripts and tables related to Nature's Contribution to People.
 - **BD Folder:** Includes scripts and parameters for the biodiversity indicator, composed of a prioritization of species distribution models (SDMs).
 
-## Reference
-
-Külling, N., Adde, A., Lambiel, A., Wicki, S., Guisan, A., Grêt-Regamey, A., & Lehmann, A. (2024). Nature’s contributions to people and biodiversity mapping in Switzerland: spatial patterns and environmental drivers. Ecological Indicators, 163, 112079. https://doi.org/10.1016/j.ecolind.2024.112079
 
 ## Map Display
 
@@ -26,3 +23,7 @@ You can view the generated maps showcasing the supply of NCP and Biodiversity be
 ![NCP and Biodiversity Maps](https://github.com/NKulling/SWISS_NCP_ASSESSMENT/blob/main/NCP/_display/maps.png)
 
 Feel free to explore the folders to access specific scripts, tables, and parameters used in the generation of these indicators. 
+
+## Reference
+
+Külling, N., Adde, A., Lambiel, A., Wicki, S., Guisan, A., Grêt-Regamey, A., & Lehmann, A. (2024). Nature’s contributions to people and biodiversity mapping in Switzerland: spatial patterns and environmental drivers. Ecological Indicators, 163, 112079. https://doi.org/10.1016/j.ecolind.2024.112079
