@@ -1,5 +1,5 @@
-# SWISS_NCP_ASSESSMENT <p align="right">
-  <a href="https://doi.org/10.1016/j.ecolind.2024.112079">
+# SWISS_NCP_ASSESSMENT <p align="right">   <a href="https://doi.org/10.1016/j.ecolind.2024.112079">
+
     <img src="https://img.shields.io/badge/DOI-10.1016/j.ecolind.2024.112079-blue" alt="Go to article publication">
   </a>
 </p>
