@@ -3,6 +3,8 @@
 
 This repository contains the scripts, tables, and parameters utilized for generating 15 Nature's Contribution to People (NCP) indicators and 1 biodiversity indicator map. These maps are the outcomes of the ValPar.CH project.
 
+output maps are available in the [Zenodo repository ](https://zenodo.org/records/14229930)
+
 ## Overview
 
 The repository is organized into two main folders:
