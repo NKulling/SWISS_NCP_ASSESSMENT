@@ -1,7 +1,7 @@
 # SWISS_NCP_ASSESSMENT  <a href="https://doi.org/10.1016/j.ecolind.2024.112079"><img src="https://img.shields.io/badge/DOI-10.1016/j.ecolind.2024.112079-blue" alt="Go to article publication">
   
 
-This repository contains the scripts, tables, and parameters utilized for generating 15 Nature's Contribution to People (NCP) indicators and 1 biodiversity indicator map. These maps are the outcomes of the ValPar.CH project.
+This repository contains the scripts, tables, and parameters utilized for generating 15 nature's contributions to people (NCP) indicators and 1 biodiversity indicator map. These maps are outcomes from the ValPar.CH project.
 
 output maps are available in the [Zenodo repository ](https://zenodo.org/records/14229930)
 
